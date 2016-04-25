@@ -21,3 +21,15 @@ function maxFactor(num2){
 
 console.log(maxFactor(600851475143));
 
+
+
+
+
+
+
+
+
+
+
+
+
